@@ -1,0 +1,3 @@
+Meg kell csinálni a többi kontrollert.
+Az adatbázis adatokat be kell állítani.
+Tesztelni.
